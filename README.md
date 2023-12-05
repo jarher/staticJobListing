@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge I have improved my javascript knowledge, especially when filtering data and creating cleaner, maintainable and readable code
+In this challenge I have improved my javascript knowledge, specially when filtering data and creating cleaner, maintainable and readable code
 
 ## Author
 
