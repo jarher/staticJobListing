@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jarher/staticJobListing]
 - Live Site URL: [https://jarher.github.io/staticJobListing/]
 
 ## My process
