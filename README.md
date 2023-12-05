@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jarher/staticJobListing]
+- Live Site URL: [https://jarher.github.io/staticJobListing/]
 
 ## My process
 
@@ -48,7 +48,7 @@ In this challenge I have improved my javascript knowledge, especially when filte
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://github.com/jarher]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/jarher]
 
 
